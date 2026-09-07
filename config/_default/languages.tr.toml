@@ -1,11 +1,11 @@
-locale = "en"
-label = "English"
-weight = 1
+locale = "tr"
+label = "Türkçe"
+weight = 2
 title = "Lore Playing"
 
 [params]
-  displayName = "English"
-  isoCode = "en"
+  displayName = "Türkçe"
+  isoCode = "tr"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/lp-logo.png"
